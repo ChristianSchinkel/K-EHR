@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/christian/Documents/VScode/Projects/helloWorldCPlusPlus/src/main'
+relocations:     []
+...
