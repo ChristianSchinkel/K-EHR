@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# CMake build directories
+EHR-CDSS/build/
+
+# macOS debug symbols
+src/main.dSYM/

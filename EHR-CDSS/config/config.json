@@ -1,0 +1,17 @@
+{
+    "database": {
+        "path": "ehr.db"
+    },
+    "cdss": {
+        "enabled": true,
+        "rules_path": "cdss/rules"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "ehr.log"
+    },
+    "ui": {
+        "theme": "light",
+        "language": "en"
+    }
+}
