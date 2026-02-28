@@ -1,3 +1,0 @@
-/home/runner/work/K-EHR/K-EHR/EHR-CDSS/_codeql_build_dir/CMakeFiles/ehr_cdss.dir
-/home/runner/work/K-EHR/K-EHR/EHR-CDSS/_codeql_build_dir/CMakeFiles/edit_cache.dir
-/home/runner/work/K-EHR/K-EHR/EHR-CDSS/_codeql_build_dir/CMakeFiles/rebuild_cache.dir

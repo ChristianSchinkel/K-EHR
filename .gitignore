@@ -42,6 +42,10 @@
 
 # CMake build directories
 EHR-CDSS/build/
+EHR-CDSS/_codeql_build_dir/
+
+# CodeQL artifacts
+_codeql_detected_source_root
 
 # macOS debug symbols
 src/main.dSYM/
